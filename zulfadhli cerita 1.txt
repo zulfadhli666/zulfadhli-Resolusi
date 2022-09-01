@@ -1,8 +1,10 @@
 cerita zulfadhli
 
+
 - IOT 
   * ESP 32
   * MRK1000
+- Big data analysis  
 - interview
 - vlog
 - 

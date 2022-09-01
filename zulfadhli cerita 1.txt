@@ -1,5 +1,8 @@
 cerita zulfadhli
 
-- IOT
+- IOT 
+  * ESP 32
+  * MRK1000
 - interview
 - vlog
+- 

@@ -4,7 +4,8 @@ cerita zulfadhli
 - IOT 
   * ESP 32
   * MRK1000
+  * UNO R3
 - Big data analysis  
 - interview
 - vlog
-- 
+- Cloud

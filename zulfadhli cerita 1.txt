@@ -8,4 +8,9 @@ cerita zulfadhli
 - Big data analysis  
 - interview
 - vlog
+
+- Test Run
+- Bug
+
 - Cloud
+
